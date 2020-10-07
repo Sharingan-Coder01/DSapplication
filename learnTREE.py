@@ -1,8 +1,3 @@
-'''
-__init__ :
-"__init__" is a reseved method in python classes. It is known as a constructor in object oriented concepts. 
-This method called when an object is created from the class and it allow the class to initialize the attributes of a class.
-'''
 
 class TreeNode:
     def __init__(self, data):
@@ -59,8 +54,3 @@ if __name__ == '__main__':
     build_product_tree()
 
 
-'''
-The pass statement is used as a placeholder for future code. 
-When the pass statement is executed, nothing happens, but you avoid getting an error when empty code is not allowed.
-Empty code is not allowed in loops, function definitions, class definitions, or in if statements.
-'''
